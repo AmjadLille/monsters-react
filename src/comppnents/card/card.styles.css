@@ -15,3 +15,7 @@
 .card-container:hover {
   transform: scale(1.05);
 }
+.monster-name {
+  color: black;
+  font-size: 50px;
+}
